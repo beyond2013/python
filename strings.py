@@ -6,6 +6,12 @@ str = "My name is Imran"
 print(str)
 print("Imran is present in str = ", "Imran" in str)
 print("Ali is not in str =", "Ali" not in str)
+
+# looping through a string
+for x in str:
+    print(x.upper())
+
+# String length
 print("length of str = ", len(str))
 
 # String slicing
@@ -35,3 +41,17 @@ print(str + "use + to concatenate two strings")
 age = 45
 str = "My name is Imran, and I am {}"
 print(str.format(age))
+
+# escape characters 
+"""
+\'    single quote
+\\    backslash
+\n    new line
+\r    carriage return # see the url below for discussion on the difference between \r and \n
+https://stackoverflow.com/questions/1761051/difference-between-n-and-r
+\t    tab
+\b    backspace
+\f    form feed
+\ooo  octal value  backslash followed by 3 digits will result in octal value
+\xhh  hex value
+
