@@ -30,7 +30,7 @@ names.add("Siraj")
 # 2. discard() will not raise error 
 
 print("\n=========================================\n")
-# names.remove("Ghulam")
+#names.remove("Ghulam")
 names.discard("Ghulam")
 names.remove("hamdullah")
 print("After removing hamdullah names = ", names)
@@ -38,8 +38,8 @@ print("After removing hamdullah names = ", names)
 # Loop sets
 print("\n=========================================\n")
 print("Using for loop to print set")
-for name in names:
-    print(name)
+for x in names:
+    print(x)
 
 # Join sets
 print("\n=========================================\n")
@@ -54,8 +54,11 @@ print("Joining Furqan and Fahad sets = ", FahadUnionFurqan)
 # Update
 print("\n=========================================\n")
 print("A.update(B) inserts the items of the set B into set A excluding duplicates- A will be modified")
-Courses = Fahad.update(Furqan)
-print("Courses: ", Courses)
+Furqan = {"Islamic History", "English Literature", "Sociology"}
+Fahad = {"Islamic History", "International Relations", "Persian"}
+print("Fahad: ", Fahad)
+print("Furqan: ", Furqan)
+Fahad.update(Furqan)
 print("Fahad: ", Fahad)
 print("Furqan: ", Furqan)
 
