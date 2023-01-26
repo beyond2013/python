@@ -186,6 +186,7 @@ for x in Mehran:
 
 print("==========================================\n")
 print("using loop to print values of a dictionary one by one")
+
 print("""
         for x in Mehran:
           print(Mehran[x])
@@ -202,3 +203,22 @@ print("""
 
 for x in Mehran.values():
     print(x)
+
+print("\nto loop through both keys and values, by using items() method")
+print("""
+        for x, y in Mehran.items():
+          print(x,y)
+     """)
+
+print("==========================================\n")
+for x, y in Mehran.items():
+    print(x,y)
+
+print("==========================================\n")
+
+print("Dictionary cannot be copied by simple assignment")
+print("use the copy() method instead")
+copy_of_mehran = Mehran.copy()
+print(" copy_of_mehran = Mehran.copy() ")
+print(copy_of_mehran)
+
