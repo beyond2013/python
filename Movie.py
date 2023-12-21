@@ -1,3 +1,10 @@
+"""
+   Almost anything in python is an object, with its properties and methods.
+   Class: is like a blueprint for creating Objects
+
+"""
+
+
 class Movie:
     """
      1. __init__ is a special function which is automatically called 
