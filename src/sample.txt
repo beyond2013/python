@@ -1,0 +1,13 @@
+A text file created to demo the
+file handling functions
+in python
+
+this line has been added to the file by writefile.py
+
+
+================================================
+
+this line has been added to the file by writefile.pythis line has been added to the file by writefile.pythis line has been added to the file by writefile.pythis line has been added to the file by writefile.pythis line has been added to the file by writefile.py
+this line has been added to the file by writefile.py
+this line has been added to the file by writefile.py
+this line has been added to the file by writefile.py
