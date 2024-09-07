@@ -1,12 +1,10 @@
-# **Day 1 Lecture: Introduction to Python**
+# Day 1 Lecture: Introduction to Python
 
----
-
-## **I. Introduction to Python**
+## I. Introduction to Python
 
 **1. History of Python:**
-
-   - **Created By**: Python was created by **Guido van Rossum** in the late 1980s, with its first release in 1991.
+  <img src="../fig/GuidoVanRossum.jpeg" align="right" height="250" width="250">
+   - **Created By**: Python was created by [Guido van Rossum](https://www.youtube.com/watch?v=J0Aq44Pze-w) in the late 1980s, with its first release in 1991.
    - **Origin**: Named after the British comedy group "Monty Python." Guido van Rossum wanted a name that was unique, short, and slightly mysterious.
    - **Purpose**: Designed to be simple and easy to read, Python was intended to improve productivity and readability for software development.
 
@@ -16,7 +14,7 @@
    - **Versatility**: Python is a general-purpose language, suitable for web development, data analysis, automation, artificial intelligence, and more.
    - **Extensive Libraries and Frameworks**: Python offers a vast ecosystem of libraries and frameworks (like Django, Flask, NumPy, and Pandas) that accelerate development in various domains.
 
-## **II. Exploring Python's Popularity and Applications in Web Development**
+## II. Exploring Python's Popularity and Applications in Web Development
 
 **1. Popularity of Python:**
 
@@ -29,7 +27,7 @@
    - **Full-Stack Development**: Python can be part of a full-stack development setup when combined with front-end technologies.
    - **Automation and Scripting**: Python is ideal for writing scripts to automate repetitive tasks in web development, such as data scraping, testing, and deployment.
 
-## **III. Understanding Different Versions of Python**
+## III. Understanding Different Versions of Python
 
 **1. Major Versions of Python:**
 
@@ -46,7 +44,7 @@
    - **Integer Division**: In Python 2, dividing two integers performs floor division (`5 / 2` results in `2`). In Python 3, it results in a float (`5 / 2` results in `2.5`).
    - **Unicode Strings**: Python 3 treats all strings as Unicode by default, making it better suited for internationalization.
 
-## **IV. Basic Concepts of Python**
+## IV. Basic Concepts of Python
 
 **1. Variables in Python:**
 
@@ -97,16 +95,14 @@
    power = a ** b       # 1000
    ```
 
-## **Summary and Next Steps**
-
-1. **Recap of Day 1 Topics**:
+## Recap of Day 1 Topics:
 
    - Learned about Python's history, creators, and significance.
    - Explored Python's popularity and its applications in web development.
    - Understood different versions of Python and their minor differences.
    - Covered the basic concepts of Python, including variables, data types, and basic operations.
 
-## **Practical**
+## Practical
 
 - Write a Python script that converts a given length from feet to inches and inches to feet. Hint 1 foot = 12 inches
 - Write a Python script that converts a temperature from Celsius to Fahrenheit and vice versa.
