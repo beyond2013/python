@@ -3,7 +3,7 @@
 ## I. Introduction to Python
 
 **1. History of Python:**
-  <img src="../fig/GuidoVanRossum.jpeg" align="right" height="250" width="250">
+  <img src="../fig/GuidoVanRossum.jpeg" align="right" height="300" width="250">
    - **Created By**: Python was created by [Guido van Rossum](https://www.youtube.com/watch?v=J0Aq44Pze-w) in the late 1980s, with its first release in 1991.
    - **Origin**: Named after the British comedy group "Monty Python." Guido van Rossum wanted a name that was unique, short, and slightly mysterious.
    - **Purpose**: Designed to be simple and easy to read, Python was intended to improve productivity and readability for software development.
