@@ -1,4 +1,4 @@
-# Day 2: Python Vocational Training Program
+# Day 2: Installation of Python, Anaconda, and PIP 
 
 ## 1. Installing the Latest Stable Release of Python
 
