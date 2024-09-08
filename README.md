@@ -12,6 +12,7 @@
     - Variables
     - data types 
     - basic operations
+
 - [Day 2](markdown/day2.md)
 
   + Installing latest stable release of Python
