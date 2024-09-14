@@ -23,6 +23,7 @@
     - loops (for, while).
   
 - [Day 3](markdown/day3.md)
+
     + Setting up Virtual Environments for Python projects.
     + Overview of Python IDEs and Text Editors 
       - Jupyter Notebooks
@@ -32,3 +33,14 @@
       - Functions
       - modules
       - libraries
+
+- [Day 4](markdown/day4.md)
+
+    + Introduction to Python Standard Library
+    + Exploring commonly used modules in Python Standard Library
+      - os
+      - sys
+      - math
+    + Basic concepts:
+      - Exception handling
+      - File handling
