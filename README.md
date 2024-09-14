@@ -21,3 +21,14 @@
   + Basic concepts:
     - Control structures (if, else, elif)
     - loops (for, while).
+  
+- [Day 3](markdown/day3.md)
+    + Setting up Virtual Environments for Python projects.
+    + Overview of Python IDEs and Text Editors 
+      - Jupyter Notebooks
+      - Pycharm Community Edition
+      - Spider 
+    + Basic concepts: 
+      - Functions
+      - modules
+      - libraries
