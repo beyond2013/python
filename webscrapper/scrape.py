@@ -16,7 +16,7 @@ def scrape_search_results(base_url, search_path, keyword):
 
         # Step 4: Determine if it's a direct hit or a list of results
         # Adjust these selectors based on the actual site structure
-        search_results = soup.find_all('div', class_='result')  # Example: list of search results
+        search_results = soup.find_all('div', class_='search_result')  # Example: list of search results
         if search_results:
             # Case 1: A list of search results is returned
             print("Multiple search results found. Scraping the first result...")
