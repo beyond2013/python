@@ -44,3 +44,14 @@
     + Basic concepts:
       - Exception handling
       - File handling
+  
+- [Day 5](markdown/day5.md)
+
+    + Review of the week's concepts and practical exercises
+    + Basic concepts: Object-oriented programming 
+      - classes
+      - objects
+      - inheritance
+    + Sample Python project incorporating concepts learned  
+    + Weekly Task:
+      - Develop a small command-line application using Python 
