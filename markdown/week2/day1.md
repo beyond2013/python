@@ -16,7 +16,7 @@ print("Hello, Python")
 
 # Example of indentation in a function
 
-```
+```python
 def greet():
     print("Hello!")
     print("Welcome to Python")
