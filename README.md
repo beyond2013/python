@@ -1,6 +1,6 @@
 # Python 
 
-- [Day 1](markdown/day1.md)
+- [Day 1](markdown/week1/day1.md)
 
   + Introduction to Python 
   + History
@@ -13,7 +13,7 @@
     - data types 
     - basic operations
 
-- [Day 2](markdown/day2.md)
+- [Day 2](markdown/week1/day2.md)
 
   + Installing latest stable release of Python
   + Setting up Anaconda distribution for Python
@@ -22,7 +22,7 @@
     - Control structures (if, else, elif)
     - loops (for, while).
   
-- [Day 3](markdown/day3.md)
+- [Day 3](markdown/week1/day3.md)
 
     + Setting up Virtual Environments for Python projects.
     + Overview of Python IDEs and Text Editors 
@@ -34,7 +34,7 @@
       - modules
       - libraries
 
-- [Day 4](markdown/day4.md)
+- [Day 4](markdown/week1/day4.md)
 
     + Introduction to Python Standard Library
     + Exploring commonly used modules in Python Standard Library
@@ -45,7 +45,7 @@
       - Exception handling
       - File handling
   
-- [Day 5](markdown/day5.md)
+- [Day 5](markdown/week1/day5.md)
 
     + Review of the week's concepts and practical exercises
     + Basic concepts: Object-oriented programming 
