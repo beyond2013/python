@@ -50,10 +50,8 @@ def scrape_content(url):
     pretty_html = BeautifulSoup(inner_html, 'html.parser').prettify()
     html_content += pretty_html 
 
-    markdown_content = markdown.markdown(html_content)
-
-
-    return markdown_content
+    #markdown_content = markdown.markdown(html_content)
+    return html_content
 
 if __name__ == "__main__":
     url = "https://store.steampowered.com/app/730/CounterStrike_2/"  # Replace with the actual URL

@@ -1,5 +1,7 @@
 # Python 
 
+- Week 1
+
 - [Day 1](markdown/week1/day1.md)
 
   + Introduction to Python 
@@ -55,3 +57,19 @@
     + Sample Python project incorporating concepts learned  
     + Weekly Task:
       - Develop a small command-line application using Python 
+
+- Week 2
+
+- [Day 1](markdown/week2/day1.md)
+    + Basic Syntax 
+      - No Semicolon
+      - indentation
+      - No parenthesis
+    + PEP8
+    + Keywords
+    + Variables & Literals
+
+- [Day 2](markdown/week2/day2.md)
+    + Starting out with Expressions
+    + Basic Types 
+    + Working with variables.
