@@ -453,13 +453,13 @@ Welcome to Python Programming
 
 | Task | Completed |
 |---|---|
-| Located Python IDLE | ☐ |
-| Installed Python | ☐ |
-| Opened Interactive Mode | ☐ |
-| Executed Commands in Shell | ☐ |
-| Created a `.py` File | ☐ |
-| Saved Python Program | ☐ |
-| Executed Program using F5 | ☐ |
+| Located Python IDLE |  |
+| Installed Python |  |
+| Opened Interactive Mode |  |
+| Executed Commands in Shell |  |
+| Created a `.py` File |  |
+| Saved Python Program |  |
+| Executed Program using F5 |  |
 
 ---
 
